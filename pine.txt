@@ -1,0 +1,37 @@
+# pr8.5
+# A data set from Oehlert (2000) \emph{A First Course in Design and
+# Analysis of Experiments}, New York: W. H. Freeman.
+#
+# Data originally from Low, C.~K. and A.~R. {Bin Mohd. Ali} (1985).
+# ``Experimental tapping of pine oleoresin.'' {\em The Malaysian
+# Forester\/}~{\em 48}, 248--253.
+#
+# Columns are shape of hole (circular, diagonal, check, or
+# rectangular), acid treatment (control or acid), and amount
+# of resin collected (g). 
+          shape         trt           y
+            1            1            9
+            2            1           43
+            3            1           60
+            4            1           77
+            1            1           13
+            2            1           48
+            3            1           65
+            4            1           70
+            1            1           12
+            2            1           57
+            3            1           70
+            4            1           91
+            1            2           15
+            2            2           66
+            3            2           75
+            4            2           97
+            1            2           13
+            2            2           58
+            3            2           78
+            4            2          108
+            1            2           20
+            2            2           73
+            3            2           90
+            4            2           99
+
